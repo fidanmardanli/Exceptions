@@ -1,0 +1,15 @@
+C:\Users\marda\Desktop\c#\Exceptions\LoginExceptionTask\LoginExceptionTask\bin\Debug\net6.0\LoginExceptionTask.exe
+C:\Users\marda\Desktop\c#\Exceptions\LoginExceptionTask\LoginExceptionTask\bin\Debug\net6.0\LoginExceptionTask.deps.json
+C:\Users\marda\Desktop\c#\Exceptions\LoginExceptionTask\LoginExceptionTask\bin\Debug\net6.0\LoginExceptionTask.runtimeconfig.json
+C:\Users\marda\Desktop\c#\Exceptions\LoginExceptionTask\LoginExceptionTask\bin\Debug\net6.0\LoginExceptionTask.dll
+C:\Users\marda\Desktop\c#\Exceptions\LoginExceptionTask\LoginExceptionTask\bin\Debug\net6.0\LoginExceptionTask.pdb
+C:\Users\marda\Desktop\c#\Exceptions\LoginExceptionTask\LoginExceptionTask\obj\Debug\net6.0\LoginExceptionTask.csproj.AssemblyReference.cache
+C:\Users\marda\Desktop\c#\Exceptions\LoginExceptionTask\LoginExceptionTask\obj\Debug\net6.0\LoginExceptionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marda\Desktop\c#\Exceptions\LoginExceptionTask\LoginExceptionTask\obj\Debug\net6.0\LoginExceptionTask.AssemblyInfoInputs.cache
+C:\Users\marda\Desktop\c#\Exceptions\LoginExceptionTask\LoginExceptionTask\obj\Debug\net6.0\LoginExceptionTask.AssemblyInfo.cs
+C:\Users\marda\Desktop\c#\Exceptions\LoginExceptionTask\LoginExceptionTask\obj\Debug\net6.0\LoginExceptionTask.csproj.CoreCompileInputs.cache
+C:\Users\marda\Desktop\c#\Exceptions\LoginExceptionTask\LoginExceptionTask\obj\Debug\net6.0\LoginExceptionTask.dll
+C:\Users\marda\Desktop\c#\Exceptions\LoginExceptionTask\LoginExceptionTask\obj\Debug\net6.0\refint\LoginExceptionTask.dll
+C:\Users\marda\Desktop\c#\Exceptions\LoginExceptionTask\LoginExceptionTask\obj\Debug\net6.0\LoginExceptionTask.pdb
+C:\Users\marda\Desktop\c#\Exceptions\LoginExceptionTask\LoginExceptionTask\obj\Debug\net6.0\LoginExceptionTask.genruntimeconfig.cache
+C:\Users\marda\Desktop\c#\Exceptions\LoginExceptionTask\LoginExceptionTask\obj\Debug\net6.0\ref\LoginExceptionTask.dll

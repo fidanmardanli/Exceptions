@@ -1,0 +1,15 @@
+C:\Users\marda\Desktop\c#\Exceptions\ExceptionsPractise\ExceptionsPractise\bin\Debug\net6.0\ExceptionsPractise.exe
+C:\Users\marda\Desktop\c#\Exceptions\ExceptionsPractise\ExceptionsPractise\bin\Debug\net6.0\ExceptionsPractise.deps.json
+C:\Users\marda\Desktop\c#\Exceptions\ExceptionsPractise\ExceptionsPractise\bin\Debug\net6.0\ExceptionsPractise.runtimeconfig.json
+C:\Users\marda\Desktop\c#\Exceptions\ExceptionsPractise\ExceptionsPractise\bin\Debug\net6.0\ExceptionsPractise.dll
+C:\Users\marda\Desktop\c#\Exceptions\ExceptionsPractise\ExceptionsPractise\bin\Debug\net6.0\ExceptionsPractise.pdb
+C:\Users\marda\Desktop\c#\Exceptions\ExceptionsPractise\ExceptionsPractise\obj\Debug\net6.0\ExceptionsPractise.csproj.AssemblyReference.cache
+C:\Users\marda\Desktop\c#\Exceptions\ExceptionsPractise\ExceptionsPractise\obj\Debug\net6.0\ExceptionsPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marda\Desktop\c#\Exceptions\ExceptionsPractise\ExceptionsPractise\obj\Debug\net6.0\ExceptionsPractise.AssemblyInfoInputs.cache
+C:\Users\marda\Desktop\c#\Exceptions\ExceptionsPractise\ExceptionsPractise\obj\Debug\net6.0\ExceptionsPractise.AssemblyInfo.cs
+C:\Users\marda\Desktop\c#\Exceptions\ExceptionsPractise\ExceptionsPractise\obj\Debug\net6.0\ExceptionsPractise.csproj.CoreCompileInputs.cache
+C:\Users\marda\Desktop\c#\Exceptions\ExceptionsPractise\ExceptionsPractise\obj\Debug\net6.0\ExceptionsPractise.dll
+C:\Users\marda\Desktop\c#\Exceptions\ExceptionsPractise\ExceptionsPractise\obj\Debug\net6.0\refint\ExceptionsPractise.dll
+C:\Users\marda\Desktop\c#\Exceptions\ExceptionsPractise\ExceptionsPractise\obj\Debug\net6.0\ExceptionsPractise.pdb
+C:\Users\marda\Desktop\c#\Exceptions\ExceptionsPractise\ExceptionsPractise\obj\Debug\net6.0\ExceptionsPractise.genruntimeconfig.cache
+C:\Users\marda\Desktop\c#\Exceptions\ExceptionsPractise\ExceptionsPractise\obj\Debug\net6.0\ref\ExceptionsPractise.dll
